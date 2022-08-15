@@ -1,20 +1,23 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
-##Installatıon
+## Installatıon
 öncelikle projeyi clonlayın.
 
 https://github.com/canerguler00/kodluyoruzilkrepo.git
 
-##Usage
+## Usage
 Projeyi clonladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 
 cd kodluyoruzilkrepo code .
 
-##Contributing
+## Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
-##License
+## License
 MIT
+
+## Picture
+![link](hhtp://patika.dev)
