@@ -2,12 +2,12 @@
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 ## Installatıon
-öncelikle projeyi clonlayın.
+*öncelikle projeyi clonlayın.
 
 https://github.com/canerguler00/kodluyoruzilkrepo.git
 
 ## Usage
-Projeyi clonladıktan sonra Visual Studio Code programında açınız.
+-Projeyi clonladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 
