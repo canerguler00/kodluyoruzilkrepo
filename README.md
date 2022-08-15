@@ -20,4 +20,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 MIT
 
 ## Picture
-![link](hhtp://patika.dev)
+![link](https://www.patika.dev/)
