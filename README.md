@@ -11,8 +11,12 @@ https://github.com/canerguler00/kodluyoruzilkrepo.git
 
 Linux için:
 
-- cd kodluyoruzilkrepo 
-- code .
+```
+cd kodluyoruzilkrepo
+``` 
+```
+code .
+```
 komutlarını çalıştırın
 
 ## Contributing
@@ -23,3 +27,9 @@ MIT
 
 ## Picture
 https://www.patika.dev/
+
+[google link için](http://google.com)
+
+[görsel için](https://picsum.photos/seed/picsum/200/300)
+
+***
